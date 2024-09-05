@@ -12,4 +12,5 @@ Inicie um novo repositório no GitHub, nomeando-o como **_"desafio-github-markdo
 Adicione um colaborador ao repositório:
 Navegue até a aba "**Settings**" do repositório.
 Selecione "**Collaborators**".
-Insira o nome de usuário do colaborador. Após isto, realizem um clone do repositório em suas máquinas > git clone https://github.com/RicardoDVargas/desafio-dio-github-markdown.git
+Insira o nome de usuário do colaborador. Após isto, realizem um clone do repositório em suas máquinas 
+> git clone https://github.com/RicardoDVargas/desafio-dio-github-markdown.git

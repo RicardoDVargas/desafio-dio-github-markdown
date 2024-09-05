@@ -10,7 +10,11 @@ Inicie um novo repositório no GitHub, nomeando-o como **_"desafio-github-markdo
     - Inclua um arquivo **README.md** durante a criação do repositório. Utilize o editor online do GitHub (**_Github.dev_**) para realizar edições no projeto.
 2. **Trabalho em Equipe**:
 Adicione um colaborador ao repositório:
-Navegue até a aba "**Settings**" do repositório.
-Selecione "**Collaborators**".
-Insira o nome de usuário do colaborador. Após isto, realizem um clone do repositório em suas máquinas 
-> git clone https://github.com/RicardoDVargas/desafio-dio-github-markdown.git
+
+    Navegue até a aba "**Settings**" do repositório.
+
+    Selecione "**Collaborators**".
+
+    Insira o nome de usuário do colaborador. Após isto, realizem um clone do repositório em suas máquinas 
+
+    > git clone https://github.com/RicardoDVargas/desafio-dio-github-markdown.git
